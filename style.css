@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(10, 13, 20);
+}
+h1 {
+text-align:center; color:white; font-family:poppins,sans-serif; font-size:50px;
+
+}
+p {
+    text-align:center; color: #dcdcbc; font-family:poppins,sans-serif; font-size:25px;
+}
+button {
+    background-color: rgb(15, 17, 25); color:white; font-family:poppins,sans-serif; font-size:25px;
+    border-radius: 13px; cursor :pointer; padding : 10px; background-size: 20px;
+}
